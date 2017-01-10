@@ -1,12 +1,13 @@
 var electron = require('electron');
 var BrowserWindow = electron.BrowserWindow;
 var app = electron.app;
-var ipc = electron.ipcMain;
 
 app.on('ready', function() {
   var appWindow, infoWindow;
   appWindow = new BrowserWindow({
-    show: false
+    show: false,
+    width: 800,
+    height: 800
   }); //appWindow
 
   appWindow.loadURL('file://' + __dirname + '/index.html');
