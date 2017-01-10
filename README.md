@@ -1,6 +1,6 @@
 # Blackout Maze
 
-This repository is a solution to the Elastic Path Developer Challenge using Electron. The solution was developped many years ago and was now ported to Electron.
+This repository is a solution to the Elastic Path Developer Challenge using Electron. The solution was developped many years ago and was  ported to Electron early 2017.
 
 ![solution](https://github.com/jcurlier/blackout-maze/blob/master/solution.png)
 
