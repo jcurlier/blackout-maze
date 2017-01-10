@@ -1,0 +1,8 @@
+{
+  "name": "ElectronEPChallengeApp",
+  "version": "1.0.0",
+  "main": "app/main.js",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
